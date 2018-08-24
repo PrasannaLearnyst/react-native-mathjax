@@ -26,6 +26,6 @@
   "homepage": "https://github.com/calvinkei/react-native-mathjax#readme",
   "dependencies": {
     "lodash": "^4.17.4",
-    "react-native-autoheight-webview": "https://github.com/calvinkei/react-native-autoheight-webview/tarball/master"
+    "react-native-autoheight-webview": "git://github.com/learnyst/react-native-mathjax.git"
   }
 }
